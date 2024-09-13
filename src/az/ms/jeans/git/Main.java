@@ -1,5 +1,8 @@
 package az.ms.jeans.git;
 
+import java.sql.SQLOutput;
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello World !");
@@ -8,5 +11,10 @@ public class Main {
         System.out.printf("I m always here for you, %s",love);
         System.out.println("Drake COLLAB");
         System.out.println("Kaseda");
+        System.out.println("Buenos dias");
+
+
+
     }
+
 }
